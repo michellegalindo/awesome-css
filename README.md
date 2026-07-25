@@ -154,7 +154,8 @@ Explore, learn, and contribute.
 
 ### Utilities
 
-Empty. Add your contribution 💜
+- [Lightning CSS](https://lightningcss.dev/) - Parse, transform, bundle, and minify CSS *(tool)*
+- [CSS Dedup](https://www.npmjs.com/package/css-dedup) - Analyze and fix CSS declaration duplication (for maintainability and performance) *(tool)*
 
 ### Debugging
 - [Can I Use - Browser Support](https://caniuse.com) - Check CSS and HTML feature support across every browser before shipping *(tool)*
@@ -216,6 +217,7 @@ Empty. Add your contribution 💜
 - [Web.dev Learn CSS](https://web.dev/learn/css) - Work through structured CSS lessons from Google covering modern layout and cascade *(guide)*
 - [CSS-Tricks Almanac](https://css-tricks.com/almanac) - Look up any CSS property or selector with practical usage examples *(reference)*
 - [Smashing Magazine - CSS category](https://www.smashingmagazine.com/category/css) - Read in-depth CSS articles from practitioners covering modern patterns and techniques *(reference)*
+- [Frontend Dogma - CSS](https://frontenddogma.com/topics/css/) - Follow CSS news and review CSS history *(reference)*
 - [freeCodeCamp - CSS filter](https://www.freecodecamp.org/news/search?query=css) - Find practical CSS tutorials and step-by-step guides for all skill levels *(reference)*
 - [Bram.us](https://www.bram.us/) - Read deep-dive articles and experiments on modern CSS features like view transitions and scroll-driven animations by Bramus Van Damme *(reference)*
 - [CSS Podcast by Una Kravets and Adam Argyle](https://thecsspodcast.libsyn.com) - Deep-dive into CSS properties and features through conversational episodic breakdowns *(podcast)*
