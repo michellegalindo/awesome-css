@@ -126,6 +126,7 @@ Explore, learn, and contribute.
 ## UI & Components
 - [Charts.css - Data visualization framework](https://chartscss.org) - Render data charts with pure CSS classes applied to semantic HTML tables *(library)*
 - [Flowbite](https://flowbite.com) - Pre-built Tailwind CSS components to quickly assemble interactive UIs. *(library)*
+- [morphcss](https://www.agundur.de/css-hacks.html) - 30 pure-CSS UI patterns — sliders, modals, accordions, forms — zero JavaScript. *(library)*
 
 <br/>
 
