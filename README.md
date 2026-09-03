@@ -148,6 +148,7 @@ Explore, learn, and contribute.
 - [Neumorphism Generator](https://neumorphism.io) - Generate soft-UI shadows for neumorphic CSS effects with live preview *(tool)*
 - [Glassmorphism Generator](https://ui.glass/generator) - Generate blur, transparency, and border CSS for glass-effect UI elements *(tool)*
 - [CSS Generators: Your CSS code with less effort](https://css-generators.com) - A wide range of CSS Generators (as frames and shapes) to build the future of the web. *(tool)*
+- [HTML Pocket Line Divider](https://www.htmlpocket.com/tools/html-line-divider/) - Create and copy styled semantic `<hr>` dividers. *(tool)*
 - [CSS Reset Generator | FastTool](https://fasttool.app/tools/css-reset-generator) - Generate customized reset stylesheets from popular presets like Normalize, Eric Meyer, and Tailwind Preflight *(tool)*
 - [ColorSpace](https://mycolor.space) - Generate harmonious color palettes and CSS gradients from a single input color. *(tool)*
 - [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius) - Generate complex CSS border-radius shapes visually and copy the value instantly *(tool)*
