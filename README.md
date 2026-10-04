@@ -151,6 +151,7 @@ Explore, learn, and contribute.
 - [CSS Reset Generator | FastTool](https://fasttool.app/tools/css-reset-generator) - Generate customized reset stylesheets from popular presets like Normalize, Eric Meyer, and Tailwind Preflight *(tool)*
 - [ColorSpace](https://mycolor.space) - Generate harmonious color palettes and CSS gradients from a single input color. *(tool)*
 - [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius) - Generate complex CSS border-radius shapes visually and copy the value instantly *(tool)*
+- [Layout Forge](https://vumox.github.io/layout-forge/) - Generate CSS layouts, gradients, clip-path shapes and glassmorphism with live previews *(tool)*
 
 ### Utilities
 
